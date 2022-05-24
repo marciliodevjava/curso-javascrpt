@@ -1,5 +1,4 @@
 # curso-javascrpt
- - Curso de JavaScript
  - Funções
  - Debugging e Error Handiling
  - Javascript Assícrono
